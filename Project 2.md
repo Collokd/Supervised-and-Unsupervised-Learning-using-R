@@ -1,23 +1,23 @@
 ---
 title: "Unsupervised Learning"
 author : "Collins Kemboi"
+---
+# WEEK 13 IP
 
-#WEEK 13 IP
-
-##DEFINING THE ANALYTIC QUESTION QUESTION
+# DEFINING THE QUESTION
 
 
-###a). Specifying the question
+### a). Specifying the question
 
 Kira Plastinina  is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. The brand’s Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year. More specifically, they would like to learn the characteristics of customer groups
 
 
-###b). Defining the metrics of success
+### b). Defining the metrics of success
 
 Our metric of success will be defined by sucessful coming up with models with high accuracies.
 
 
-###c) Understanding the Context
+### c) Understanding the Context
 
 Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. The brand’s Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year.
 
@@ -25,13 +25,12 @@ We are therefore tasked to develop two models K Means Clustering and Hierarical 
 
 
 
-###d). Recording the Experimental Design
+### d). Recording the Experimental Design
 
 
 1.   Data Cleaning and Preparation
 2.   Exploratory Data Analysis
 3.   Feature Selection
-
 4.  Modeling
 
 *   K-Mean Clustering
@@ -42,7 +41,7 @@ We are therefore tasked to develop two models K Means Clustering and Hierarical 
 7.  Make conclusions & Challenge the solution
 
 
-###e) Data relevance/ Appropriateness of Data
+### e) Data relevance/ Appropriateness of Data
 
 Link to the dataset:http://bit.ly/EcommerceCustomersDataset
 
